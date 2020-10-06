@@ -14,7 +14,7 @@ Some of the qualitative data were transformed using different methods like dummy
 **Descriptive Analysis:**
 Performed descriptive analysis to understand trends from past data.
 Using descriptive statistics, we answered business questions like:
-1. How many flights per airline are there in the data? 
+1. How many flights per airline are there in the data??
 2. How many flights per scheduled destination are there in the data? 
 3. How many flights per scheduled destination are there in the data? 
 
