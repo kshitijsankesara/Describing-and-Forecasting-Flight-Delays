@@ -31,7 +31,7 @@ We build a **3D Map** depicting delay routes and airlines.
 
 **TIME-SERIES MODEL:** We also build a Time Series Forecasting model to show seasonalities, monthly and yearly delays, and predict future delays.
 
-**REGRESSION:** We used Regression analysis to discover good predictors of flight delays. We understood the relationship between quantitative variables by conducting Correlation Analysis. We perform *Feature Engineering* on our data after knowing the significant factors of delays. We used Logistic Regression, Simple Linear Regression, and Multiple Linear Regression using different subsets of our data to understand the predictors of flight delays.
+**REGRESSION:** We used Regression analysis to discover good predictors of flight delays. We understood the relationship between quantitative variables by conducting Correlation Analysis. We perform *Feature Engineering* on our data after knowing the significant factors of delays. We used Logistic Regression, Simple Linear Regression, and Multiple Linear Regression using different subsets of our data to understand the predictors of flight delays..
 
 **Logistic Regression:** To understand how the data would affect the probability of getting delayed through the coefficients, and if the explanatory variables are good predictors for the *Classification* task. After analyzing our model and updating it, we achieved an *R-value of 0.997*.
 
