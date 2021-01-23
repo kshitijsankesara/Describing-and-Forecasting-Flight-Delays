@@ -39,4 +39,4 @@ We build a **3D Map** depicting delay routes and airlines.
 
 **Multiple Linear Regression:** To predict arrival delays using Stepwise Multiple Linear Regression. To understand how weather, airlines, destination airports, scheduled time of day, day of the week, etc. all affect arrival delays and if they are good predictors using *Stepwise Regression*.
 
-**Results & Conclusion:** We were successful in finding variables that significantly affected flight delays. We got a very high correlation coefficient for our regression models, so the variables were found to greatly affect flight delays..
+**Results & Conclusion:** We were successful in finding variables that significantly affected flight delays. We got a very high correlation coefficient for our regression models, so the variables were found to greatly affect flight delays.
