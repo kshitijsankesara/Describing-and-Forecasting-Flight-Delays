@@ -35,7 +35,7 @@ We build a **3D Map** depicting delay routes and airlines.
 
 **Logistic Regression:** To understand how the data would affect the probability of getting delayed through the coefficients, and if the explanatory variables are good predictors for the *Classification* task. After analyzing our model and updating it, we achieved an *R-value of 0.997*.
 
-**Simple Linear Regression:** To predict arrival delays using departure delays. We build a *scatter plot* to analyze both the variables. We obtained a *correlation coefficient* value of 0.94 for our model.
+**Simple Linear Regression:** To predict arrival delays using departure delays. We build a *scatter plot* to analyze both the variables. We obtained a *correlation coefficient* value of 0.94 for our model..
 
 **Multiple Linear Regression:** To predict arrival delays using Stepwise Multiple Linear Regression. To understand how weather, airlines, destination airports, scheduled time of day, day of the week, etc. all affect arrival delays and if they are good predictors using *Stepwise Regression*.
 
